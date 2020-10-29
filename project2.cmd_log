@@ -1,0 +1,667 @@
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 
+vhdtdtfi -lib work project2.vhd -prj project2 -o project2.spl -module project2 -template /CMC/tools/xilinx/13.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e project2.spl /home/student2/ypzou/coe758/project2/project2/project2.sym 
+xst -intstyle ise -ifn "/home/student2/ypzou/coe758/project2/project2/project2.xst" -ofn "/home/student2/ypzou/coe758/project2/project2/project2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contraint.ucf -p xc3s500e-fg320-5 project2.ngc project2.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o project2_map.ncd project2.ngd project2.pcf 
+par -w -intstyle ise -ol high -t 1 project2_map.ncd project2.ncd project2.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project2.twx project2.ncd -o project2.twr project2.pcf -ucf contraint.ucf 
+bitgen -intstyle ise -f project2.ut project2.ncd 

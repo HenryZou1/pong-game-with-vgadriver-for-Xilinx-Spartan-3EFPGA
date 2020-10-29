@@ -1,0 +1,14 @@
+[Inputs]
+CLK
+SW0
+SW1
+SW2
+SW3
+[Outputs]
+HSYNC
+VSYNC
+DAC_CLK
+=Bout[7:0]=
+=Gout[7:0]=
+=Rout[7:0]=
+[BiDir]

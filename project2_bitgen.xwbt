@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/student2/ypzou/coe758/project2/project2/project2.ncd
+OUTFILE=/home/student2/ypzou/coe758/project2/project2/project2.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=/home/student2/ypzou/coe758/project2/project2
+LICENSE=ISE
+USER_INFO=175353682_174116511_0_422
